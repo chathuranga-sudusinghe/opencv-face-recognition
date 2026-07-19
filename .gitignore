@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Dataset
+data/raw/
+data/processed/
+
+# Trained models and outputs
+models/
+outputs/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
