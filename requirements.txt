@@ -19,6 +19,7 @@ opencv-contrib-python==5.0.0.93
 packaging==26.2
 platformdirs==4.10.1
 protobuf==7.35.1
+pytest==9.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-slugify==8.0.4
