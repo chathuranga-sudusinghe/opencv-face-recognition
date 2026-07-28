@@ -1,5 +1,6 @@
 # Virtual environment
 .venv/
+.venv-windows/
 
 # Python
 __pycache__/
@@ -20,3 +21,4 @@ outputs/
 # IDE
 .vscode/
 .idea/
+
