@@ -8,6 +8,7 @@ __pycache__/
 # Dataset
 data/raw/
 data/processed/
+data/registered_faces/
 
 # Trained models and outputs
 models/
