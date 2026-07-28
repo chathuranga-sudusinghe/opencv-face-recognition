@@ -10,6 +10,7 @@ __pycache__/
 data/raw/
 data/processed/
 data/registered_faces/
+data/combined/
 
 # Trained models and outputs
 models/
